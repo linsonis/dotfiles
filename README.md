@@ -9,3 +9,9 @@ Dotfiles for my current linux setup. Updated when I remember to
 - font: cozette
 - terminal: alacritty
 - shell: fish
+## setup
+drag files into your `.config` folder.
+
+if you are using the arch version of hyprland, use `hyprland.conf` inside `hypr/`.
+
+if you are on the cachyos version of hyprland, use all the `.conf` files inside `hypr/cachy`.
